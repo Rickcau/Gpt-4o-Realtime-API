@@ -13,6 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Environment variable files
+.env.Local*
+appsettings.Development*
+
 # Mono auto generated files
 mono_crash.*
 
